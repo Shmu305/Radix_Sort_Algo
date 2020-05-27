@@ -1,9 +1,7 @@
 /**************************************************************
+ 
  Purpose/Description: This program implemets radix sort using buckets
- Author’s Panther ID: 3084058
- Certification:
- I hereby certify that this work is my own and none of it is the work of
- any other person.
+
 **************************************************************/
 package radixsortt;
 import java.util.ArrayList;
